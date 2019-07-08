@@ -1,0 +1,24 @@
+
+.title{
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu{
+    background-color: black;
+    color: rgb(250, 250, 250);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
+}
+
+.featured-image{
+    width: 200px;
+    height: 275px;
+    margin: 15px;
+    justify-content: center;
+}
+
